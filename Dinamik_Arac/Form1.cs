@@ -55,7 +55,7 @@ namespace Dinamik_Arac
 
         {
 
-            lbl.Text = "Merhaba Gençler Nabeeeeer!"; // lbl yi global alanda tanımladım ki buradan erişebileyim 
+            lbl.Text = "Merhaba Gençler Nabeeeeer! İşler nasıl?"; // lbl yi global alanda tanımladım ki buradan erişebileyim 
 
         }
     }
